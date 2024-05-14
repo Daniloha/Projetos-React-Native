@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="30.9914"
+   height="30.870825"
+   viewBox="0 0 30.9914 30.870825"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logotipo-Estacio-02.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="10.496063"
+     inkscape:cx="62.928357"
+     inkscape:cy="15.434359"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 15.495699,30.870825 c -0.4804,0 -0.9759,-0.1944 -1.3513,-0.5534 L 0.555459,16.766625 C 0.195145,16.407725 0,15.914025 0,15.435425 l 5.855919,0.329 0.3754,6.3567 0.36031,-6.3118 8.04817,0.4786 0.4505,7.5532 -5.82591,0.344 5.85591,0.344 z"
+     fill="#00c0f3"
+     id="path1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 23.919299,23.272725 -0.0601,0.0598 -7.9432,0.4637 0.4505,-7.5083 7.9882,-0.4636 z m 7.0721,-7.8373 c 0,0.4786 -0.1801,0.9723 -0.5556,1.3312 l -4.8949,4.8908 -0.3454,-5.893 z m -8.7538,9.4975 -5.3906,5.3845 c -0.3754,0.359 -0.8559,0.5534 -1.3514,0.5534 l 0.3755,-6.2968 z"
+     fill="#16aebd"
+     id="path2" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 15.495599,0 c 0.4955,0 0.976,0.194475 1.3514,0.553575 l 13.5888,13.55075 c 0.3755,0.3589 0.5556,0.8525 0.5556,1.3312 l -5.8409,-0.329 -0.3754,-6.35669 -0.3753,6.31179 -8.0333,-0.4787 -0.4505,-7.55315 5.826,-0.34397 -5.8709,-0.34398 z"
+     fill="#6dc8bf"
+     id="path3" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 8.753849,5.937875 5.39055,-5.3843 C 14.519799,0.194475 15.015299,0 15.495699,0 l -0.3604,6.296925 z m -1.66667,1.66033 0.04506,-0.05986 7.94296,-0.46367 -0.4354,7.50825 -8.00311,0.4637 z m -6.53172,6.50612 4.91007,-4.89083 0.34532,5.89303 L 0,15.435525 c 0,-0.4787 0.195145,-0.9723 0.555459,-1.3312 z"
+     fill="#b1ded3"
+     id="path4" />
+</svg>
